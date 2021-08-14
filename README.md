@@ -1,15 +1,16 @@
 # Hi 👋, I'm Rohan Maity (RotBolt)
-A software engineer focused on all things UI
+An engineer who is seeking more and more knowledge, currently focused on Android apps and kotlin.
+
+I am always up for good bowl of ramen :ramen: :ramen: :ramen: :stuck_out_tongue:
 
 ![](https://github-profile-trophy.vercel.app/?username=rotbolt)
 
 ### Connect with me:
 
 <p align="left">
-<a href="https://twitter.com/chrisbanes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="chrisbanes" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chrisbanes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chrisbanes" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/chrisbanes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="chrisbanes" height="30" width="40" /></a>
-<a href="https://medium.com/chrisbanes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="chrisbanes" height="30" width="40" /></a>
+<a href="https://twitter.com/rotbolt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="chrisbanes" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rotbolt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chrisbanes" height="30" width="40" /></a>
+<a href="https://medium.com/rotbolt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="chrisbanes" height="30" width="40" /></a>
 </p>
 
 ### Languages and Tools
